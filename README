@@ -1,4 +1,4 @@
-GNU MAC Changer
+Fork of GNU MAC Changer
 ===============
 
 GNU MAC Changer is an utility that makes the maniputation of MAC
@@ -8,5 +8,5 @@ addresses of network interfaces easier.
  - Repository: http://github.com/alobbs/macchanger
 
 
-All the best,
+The mantainer is:
 Alvaro Lopez Ortega <alvaro@alobbs.com>
